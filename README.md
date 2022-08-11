@@ -1,7 +1,7 @@
 <img align="left" alt="coding" width="100" src="https://cdn-icons-png.flaticon.com/512/7069/7069922.png">
 
 <h1 align="center">Hi 👋, I'm Harsit Agarwalla</h1>
-<h3 align="center">A Competitve Programmer and a Front-End Developer from India</h3>
+<h3 align="center">A Competitve Programmer and a Front-End Developer from India<img width="25px" height="30px" src="https://cdn-icons-png.flaticon.com/512/206/206606.png"></h3>
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"> 
 
