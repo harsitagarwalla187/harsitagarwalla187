@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 📫 How to reach me **harsitagarwalla187@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/harsitagarwall5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harsitagarwall5" height="30" width="40" /></a>
