@@ -1,7 +1,9 @@
+![28261617_2205_w037_n003_394b_p1_394](https://user-images.githubusercontent.com/84774840/209423697-70ab4785-614e-40ee-a403-c77038798456.jpg)
+
 <img align="left" alt="coding" width="100" src="https://cdn-icons-png.flaticon.com/512/7069/7069922.png">
 
 <h1 align="center">Hi 👋, I'm Harsit Agarwalla</h1>
-<h3 align="center">A Competitve Programmer and a Front-End Developer from India<img width="25px" height="30px" src="https://cdn-icons-png.flaticon.com/512/206/206606.png"></h3>
+<h3 align="center">A Front-End Web Developer from India<img width="25px" height="30px" src="https://cdn-icons-png.flaticon.com/512/206/206606.png"></h3>
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"> 
 
@@ -22,4 +24,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-[![An image of @harsitagarwall5's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harsitagarwall5)](https://holopin.io/@harsitagarwall5)
+![Holopin badges](https://holopin.me/harsitagarwall5)
